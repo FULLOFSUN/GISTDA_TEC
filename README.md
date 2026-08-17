@@ -1,5 +1,5 @@
-# GISTDA_TEC
-Processing Pipeline Scripts
+# GISTDA_TEC 17 STATIONS PROJECT
+Processing Pipeline Scripts for 17 stations with RINEX2 
 
 This README.md covers the scripts used to process raw RINEX observation data
 through to validated regional VTEC maps, for the 17-station Thai CORS network
